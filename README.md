@@ -1,6 +1,6 @@
- :-: # Hi👋, I'm Nyawira Okinda 
-
- :-: ## A passionate Data Analyst📊 from Kenya   
+ :-: ###   Hi👋, I'm Nyawira Okinda  :-: 
+<ins></ins>
+ :-: ###  A passionate Data Analyst📊 from Kenya    :-:
 - 🔭 I’m a lifelong learner, exploring more about Data Analytics!
 - 🌱 I’m currently learning and upskilling myself.
 - 🧰 My analytics toolbox contains SQL, Power BI, DAX, Power Query & MS Excel.
